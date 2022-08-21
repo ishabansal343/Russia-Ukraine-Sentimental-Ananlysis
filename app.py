@@ -113,7 +113,7 @@ if st.button("Twitter Sentiment Analysis"):
   st.success('Model has predicted {}'.format(result))
       
 if st.button("About"):
-  st.subheader("Developed by Kishore Kumar")
+  st.subheader("Developed by Isha Bansal")
   st.subheader("Student , Department of Computer Engineering")
 html_temp = """
    <div class="" style="background-color:orange;" >
